@@ -3,7 +3,7 @@ package com.automation.listener;
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 
-public class TestBlazeDemo extends BaseTest{
+public class SampleTest extends BaseTest{
 	
 	@Test
     public static void pageTitleValidation(){ 
