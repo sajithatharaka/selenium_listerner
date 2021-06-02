@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1648" started-at="2021-06-02T05:58:44Z" finished-at="2021-06-02T05:58:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1648" started-at="2021-06-02T05:58:44Z" finished-at="2021-06-02T05:58:46Z">
+      <class name="com.automation.listener.TestBlazeDemo">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.automation.listener.TestBlazeDemo@3abbfa04]" name="precondition" is-config="true" duration-ms="7145" started-at="2021-06-02T11:28:37Z" finished-at="2021-06-02T11:28:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="pageTitleValidation()[pri:0, instance:com.automation.listener.TestBlazeDemo@3abbfa04]" name="pageTitleValidation" duration-ms="1615" started-at="2021-06-02T11:28:44Z" finished-at="2021-06-02T11:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleValidation -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:com.automation.listener.TestBlazeDemo@3abbfa04]" name="postcondition" is-config="true" duration-ms="1378" started-at="2021-06-02T11:28:46Z" finished-at="2021-06-02T11:28:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.automation.listener.TestBlazeDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
